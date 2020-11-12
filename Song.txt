@@ -8,3 +8,6 @@ sixth string
 and text
 two text eys.
 ---------------
+first string
+second string
+third string
