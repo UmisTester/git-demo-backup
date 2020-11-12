@@ -4,7 +4,3 @@ third string
 fourth string 
 fifth string
 sixth string
-
-and text
-two text eys.
----------------
